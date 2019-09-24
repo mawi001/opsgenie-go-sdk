@@ -51,7 +51,7 @@ import (
 )
 
 // endpointURL is the base URL of OpsGenie Web API.
-var endpointURL = "https://api.opsgenie.com"
+var endpointURL = "https://api.eu.opsgenie.com"
 
 const (
 	defaultConnectionTimeout time.Duration = 30 * time.Second
